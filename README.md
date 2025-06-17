@@ -1,7 +1,7 @@
 # 💳 3D Credit Card UI
 
 A sleek, modern, and **Responsive 3D Credit Card User Interface** built using HTML and CSS.  
-Inspired by a design from [CodingLab](https://www.youtube.com/@CodingLabYT), but completely rewritten from scratch with major design and layout improvements.
+Inspired by a design from [CodingLab](https://www.youtube.com/@CodingLabYT), but completely rewritten from scratch with design and layout improvements.
 
 ---
 

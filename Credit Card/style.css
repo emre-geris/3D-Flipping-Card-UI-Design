@@ -252,15 +252,15 @@ body {
 .designitem1 {
   top: 1rem;
   right: 2rem;
-  width: 15rem !important;
-  height: 15rem !important;
+  width: 15rem;
+  height: 15rem;
 }
 
 .designitem2 {
   bottom: -4rem;
   left: 6rem;
-  width: 15rem !important;
-  height: 15rem !important;
+  width: 15rem;
+  height: 15rem;
 }
 
 .designitem3 {
